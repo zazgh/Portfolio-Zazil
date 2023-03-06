@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Zazil/static/css/main.cbe40889.css",
+    "main.js": "/Portfolio-Zazil/static/js/main.56292642.js",
+    "static/js/787.cf91250d.chunk.js": "/Portfolio-Zazil/static/js/787.cf91250d.chunk.js",
+    "static/media/profilepic.png": "/Portfolio-Zazil/static/media/profilepic.dc0aeae35f7d86fadcde.png",
+    "static/media/project1.png": "/Portfolio-Zazil/static/media/project1.67262d170e8cac95a9ec.png",
+    "static/media/myTeam.png": "/Portfolio-Zazil/static/media/myTeam.58cd282f417680a5726c.png",
+    "static/media/noteTaker.png": "/Portfolio-Zazil/static/media/noteTaker.608457f46c5b074e8882.png",
+    "static/media/reviewWorld.png": "/Portfolio-Zazil/static/media/reviewWorld.8b12923d92ae291159c8.png",
+    "static/media/resume.pdf": "/Portfolio-Zazil/static/media/resume.f7a1eac2983e4368129f.pdf",
+    "static/media/logo.svg": "/Portfolio-Zazil/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio-Zazil/index.html",
+    "main.cbe40889.css.map": "/Portfolio-Zazil/static/css/main.cbe40889.css.map",
+    "main.56292642.js.map": "/Portfolio-Zazil/static/js/main.56292642.js.map",
+    "787.cf91250d.chunk.js.map": "/Portfolio-Zazil/static/js/787.cf91250d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe40889.css",
+    "static/js/main.56292642.js"
+  ]
+}
