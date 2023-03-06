@@ -5,7 +5,7 @@
 ## Description
 
 
-This project is about creatin my Porfolio using my new skills: React.
+This project is about creating my Porfolio using my new skills: React.
 
 
 ---
