@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  text-align: left;
+}
+
+body {
+  background-color: rgb(227, 237, 234);
+
 }
 
 .App-logo {
@@ -35,4 +40,145 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.navigationPanel {
+  padding: 50px;
+  float: right;
+  height: 100px;
+  vertical-align: bottom;
+  font-size: 30px;
+  line-height: 80px;
+  
+}
+
+.navigationPanel span {
+  padding-left : 50px;
+  vertical-align: bottom;
+
+}
+
+.navigationPanel a,a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+.Hidden {
+  display:none;
+}
+
+.redCard {
+  background-color: red;
+}
+
+.blueCard {
+  background-color: blue;
+}
+
+.yellowCard {
+  background-color: yellow;
+}
+
+.cardBorder {
+  background-color: rgba(95, 158, 160, 0.313);
+  padding: 20px;
+  margin:30px;
+  height:280px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.cardBorder H1 {
+  color:cadetblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.cardBorder a, .cardBorder a:visited {
+  color:rgb(167, 24, 180);
+  font-weight: bold;
+}
+.contactCard {
+  height: 300px;
+}
+.aboutCard {
+  height: 370px;
+}
+.portfolioList {
+  margin-bottom: 120px;
+}
+.validationError {
+  color:rgb(167, 24, 180);
+}
+.portfolioCard {
+  clear:both;
+  padding: 10px;
+  text-align: left;
+}
+.portfolioCard td {
+  padding:5px;
+  padding-left: 40px;
+}
+.portfolioCard div {
+  padding: 10px;
+}
+.portfolioCardLeftColumn {
+  width: 25%;
+  float: left;
+}
+.portfolioCardLeftColumn img {
+  width: 80%;
+  padding:10%;
+}
+.portfolioCardRightColumn {
+  width: 70%;
+  float: right;
+}
+.portfolioCardRightColumn  div{
+  width: 80%;
+  padding:5%;
+}
+
+.banner2 {
+  padding:20px;
+  width: 100%;
+  height: 150px;
+  background-color: cadetblue;
+  vertical-align: bottom;
+  font-size:x-large ;
+
+}
+.banner {
+  padding:20px;
+  width: 100%;
+  height: 150px;
+  background-color:cadetblue;
+  background-image: radial-gradient(closest-side, transparent 15%, rgba(0,0,0,.3) 99%),
+  radial-gradient(closest-side, transparent 98%, rgba(0,0,0,.3) 99%);
+  background-size:80px 80px;
+  background-position:0 0, 40px 40px;
+}
+
+.header {
+  padding:20px;
+  float: left;
+  height: 80px;
+  vertical-align: bottom;
+  font-size:x-large ;
+  color:beige;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.footer {
+  clear: both;
+  text-align: center;
+  background-color:cadetblue;
+  height: 80px;
+  line-height: 50px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.footer a,a:visited {
+  text-decoration: none;
+  color: beige;
+  padding-left : 50px;
+  
 }
