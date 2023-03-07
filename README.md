@@ -16,7 +16,7 @@ N/A
 ---
 
 ## Usage
-To visit my portfolio go to the folowing URL:
+To visit my portfolio click [here](https://zazgh.github.io/Portfolio-Zazil/#)
 
 
 
@@ -34,4 +34,4 @@ N/A
 
 ## Questions
 
-If any questions, please send me an [email me] (mailto:zzildgh@gmail.com) or/ and visit my [GitHub] (https://github.com/zazgh) page to see more projects.
+If any questions, please send me an [email me](mailto:zzildgh@gmail.com) or/ and visit my [GitHub](https://github.com/zazgh) page to see more projects.

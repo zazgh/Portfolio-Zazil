@@ -19,7 +19,7 @@ export default function About({ isHidden }) {
             creating pages where I’m able to create enjoyable
             interactions and experiences for everyone! And with UW full stack
             web development bootcamp education and support, I’m now able to
-            truly call myself a Front-End Developer.
+            truly call myself a full stack Developer.
           </p>
           <p>
             I am excited to continue refining my skills with the right company.
